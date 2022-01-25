@@ -1,0 +1,19 @@
+
+.Heading {
+	
+}
+body {
+
+	padding-top: 25px;
+}
+
+h1 {
+	background-color: lavender;
+	height: 20vh;
+	width: 50%
+	margin: 15px;
+	text-align: center;
+	border-style: solid;
+	border-color: hotpink;
+
+}
